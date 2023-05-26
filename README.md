@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abid Hasan Turo
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Python, Angular
+- 👀 I’m interested in Web Programming, ERP System
 
 
 <!---
